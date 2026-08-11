@@ -1,6 +1,6 @@
 # ✨ Hola, soy Naroa
 
-Soy estudiante de tercer curso del Grado en Matemática Computacional y Analítica de Datos en la Universitat Autònoma de Barcelona, con una sólida base en modelización matemática, estadística y optimización.
+Soy estudiante de cuarto curso del Grado en Matemática Computacional y Analítica de Datos en la Universitat Autònoma de Barcelona, con una sólida base en modelización matemática, estadística y optimización.
 
 Me interesa especialmente el ámbito de **Data Science y Machine Learning**, aplicando métodos cuantitativos para resolver problemas reales a través del análisis y la modelización de datos.
 
